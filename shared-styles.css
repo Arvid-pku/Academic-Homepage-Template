@@ -415,6 +415,23 @@ ul, ol {
   margin: 0;
 }
 
+.footer-credit {
+  font-size: 11px;
+  color: var(--text-color);
+  opacity: 0.45;
+  margin: 6px 0 0;
+}
+
+.footer-credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-credit a:hover {
+  color: var(--primary-color);
+}
+
 @media screen and (max-width: 600px) {
   .back-to-top {
     bottom: 20px;
