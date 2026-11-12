@@ -415,11 +415,11 @@ ul, ol {
   margin: 0;
 }
 
+/* Small credit shown on the same line, to the right of the copyright */
 .footer-credit {
   font-size: 11px;
-  color: var(--text-color);
-  opacity: 0.45;
-  margin: 6px 0 0;
+  opacity: 0.8;
+  margin-left: 12px;
 }
 
 .footer-credit a {

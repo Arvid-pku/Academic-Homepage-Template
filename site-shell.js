@@ -145,8 +145,7 @@
     <footer class="site-footer">
       <div class="footer-social">${socialLinks}
       </div>
-      <p class="footer-copyright">${getFooterCopy()}</p>
-      <p class="footer-credit">Website template from <a href="https://xunjianyin.github.io/" target="_blank" rel="noopener">Xunjian Yin</a></p>
+      <p class="footer-copyright">${getFooterCopy()}<span class="footer-credit">Thanks to <a href="https://xunjianyin.github.io/" target="_blank" rel="noopener">Xunjian Yin</a></span></p>
     </footer>
   </div>
   <button id="back-to-top" class="back-to-top" aria-label="Back to top">
